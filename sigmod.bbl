@@ -1,0 +1,105 @@
+\begin{thebibliography}{10}
+
+\bibitem{balaban1985applications}
+A.~T. Balaban.
+\newblock Applications of graph theory in chemistry.
+\newblock {\em Journal of Chemical Information and Computer Sciences},
+  25(3):334--343, 1985.
+
+\bibitem{bloom1970space}
+B.~H. Bloom.
+\newblock Space/time trade-offs in hash coding with allowable errors.
+\newblock {\em Communications of the ACM}, 13(7):422--426, 1970.
+
+\bibitem{bollacker2008freebase}
+K.~Bollacker, C.~Evans, P.~Paritosh, T.~Sturge, and J.~Taylor.
+\newblock Freebase: a collaboratively created graph database for structuring
+  human knowledge.
+\newblock In {\em Proc. of the SIGMOD Conf.}, pages 1247--1250, 2008.
+
+\bibitem{bunke1998graph}
+H.~Bunke and K.~Shearer.
+\newblock A graph distance metric based on the maximal common subgraph.
+\newblock {\em Pattern recognition letters}, 19(3):255--259, 1998.
+
+\bibitem{chazelle2004bloomier}
+B.~Chazelle, J.~Kilian, R.~Rubinfeld, and A.~Tal.
+\newblock The bloomier filter: an efficient data structure for static support
+  lookup tables.
+\newblock In {\em Proc. of the SODA Conf.}, pages 30--39, 2004.
+
+\bibitem{dost2008qnet}
+B.~Dost, T.~Shlomi, N.~Gupta, E.~Ruppin, V.~Bafna, and R.~Sharan.
+\newblock Qnet: a tool for querying protein interaction networks.
+\newblock {\em Journal of Computational Biology}, 15(7):913--925, 2008.
+
+\bibitem{fernandez2001graph}
+M.-L. Fern{\'a}ndez and G.~Valiente.
+\newblock A graph distance metric combining maximum common subgraph and minimum
+  common supergraph.
+\newblock {\em Pattern Recognition Letters}, 22(6):753--758, 2001.
+
+\bibitem{gao2010survey}
+X.~Gao, B.~Xiao, D.~Tao, and X.~Li.
+\newblock A survey of graph edit distance.
+\newblock {\em Pattern Analysis and applications}, 13(1):113--129, 2010.
+
+\bibitem{khan2011neighborhood}
+A.~Khan, N.~Li, X.~Yan, Z.~Guan, S.~Chakraborty, and S.~Tao.
+\newblock Neighborhood based fast graph search in large networks.
+\newblock In {\em Proc. SIGMOD Conf.}, pages 901--912, 2011.
+
+\bibitem{klyne2006resource}
+G.~Klyne and J.~J. Carroll.
+\newblock Resource description framework (rdf): Concepts and abstract syntax.
+\newblock W3C, 2006.
+
+\bibitem{mongiovi2010sigma}
+M.~Mongiovi, R.~Di~Natale, R.~Giugno, A.~Pulvirenti, A.~Ferro, and R.~Sharan.
+\newblock Sigma: a set-cover-based inexact graph matching algorithm.
+\newblock {\em Journal of bioinformatics and computational biology},
+  8(02):199--218, 2010.
+
+\bibitem{mottin2014exemplar}
+D.~Mottin, M.~Lissandrini, Y.~Velegrakis, and T.~Palpanas.
+\newblock Exemplar queries: Give me an example of what you need.
+\newblock {\em PVLDB}, 7(5):365--376, 2014.
+
+\bibitem{raymond2002rascal}
+J.~W. Raymond, E.~J. Gardiner, and P.~Willett.
+\newblock Rascal: Calculation of graph similarity using maximum common edge
+  subgraphs.
+\newblock {\em The Computer Journal}, 45(6):631--644, 2002.
+
+\bibitem{eteq2016}
+Z.~Shao, D.~Rafiei, and T.~Palpanas.
+\newblock Error-tolerant exemplar queries on rdf graphs.
+\newblock arxiv:1609.03095 [cs-DB], 2016.
+
+\bibitem{spertus2005evaluating}
+E.~Spertus, M.~Sahami, and O.~Buyukkokten.
+\newblock Evaluating similarity measures: a large-scale study in the orkut
+  social network.
+\newblock In {\em Proc. of the KDD Conf.}, pages 678--684, 2005.
+
+\bibitem{tian2008tale}
+Y.~Tian and J.~M. Patel.
+\newblock Tale: A tool for approximate large graph matching.
+\newblock In {\em Proc. of the ICDE Conf.}, pages 963--972, 2008.
+
+\bibitem{wang2012efficiently}
+G.~Wang, B.~Wang, X.~Yang, and G.~Yu.
+\newblock Efficiently indexing large sparse graphs for similarity search.
+\newblock {\em TKDE}, 24(3):440--451, 2012.
+
+\bibitem{zeng2009comparing}
+Z.~Zeng, A.~K. Tung, J.~Wang, J.~Feng, and L.~Zhou.
+\newblock Comparing stars: on approximating graph edit distance.
+\newblock {\em PVLDB}, 2(1):25--36, 2009.
+
+\bibitem{zhang2010sapper}
+S.~Zhang, J.~Yang, and W.~Jin.
+\newblock Sapper: Subgraph indexing and approximate matching in large graphs.
+\newblock {\em PVLDB}, 3(1-2):1185--1194, 2010.
+
+\end{thebibliography}
